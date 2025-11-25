@@ -1,0 +1,24 @@
+# Arquivos temporários
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de backup
+*.bak
+*.backup
+
+# Arquivos de configuração local
+.env
+.env.local
+config.local.*
+
+# Arquivos de notas pessoais (opcional - descomente se necessário)
+# notas-pessoais/
+# rascunhos/
+

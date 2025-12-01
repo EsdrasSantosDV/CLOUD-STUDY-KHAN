@@ -85,12 +85,76 @@
 
 ---
 
+## 🧰 Developer Tools & DevOps
+
+- [ ] AWS CLI
+  - [ ] [Notas Detalhadas](./aws-cli.md)
+- [ ] CloudShell
+  - [ ] [Notas Detalhadas](./cloudshell.md)
+- [ ] Cloud9
+  - [ ] [Notas Detalhadas](./cloud9.md)
+- [ ] CodeCommit
+  - [ ] [Notas Detalhadas](./codecommit.md)
+- [ ] CodeBuild
+  - [ ] [Notas Detalhadas](./codebuild.md)
+- [ ] CodeDeploy
+  - [ ] [Notas Detalhadas](./codedeploy.md)
+- [ ] CodePipeline
+  - [ ] [Notas Detalhadas](./codepipeline.md)
+- [ ] CodeStar
+  - [ ] [Notas Detalhadas](./codestar.md)
+
+---
+
+## 📡 IoT & Edge
+
+- [ ] IoT Core / Greengrass
+  - [ ] [Notas Detalhadas](./iot-core-greengrass.md)
+
+---
+
+## 📱 Mobile, Frontend & Experiência do Usuário
+
+- [ ] Amplify
+  - [ ] [Notas Detalhadas](./amplify.md)
+- [ ] AppSync
+  - [ ] [Notas Detalhadas](./appsync.md)
+- [ ] Device Farm
+  - [ ] [Notas Detalhadas](./device-farm.md)
+
+---
+
+## 🖥️ End-User Computing
+
+- [ ] AppStream 2.0 / WorkSpaces
+  - [ ] [Notas Detalhadas](./appstream-workspaces.md)
+
+---
+
+## 📨 Comunicação & Integração
+
+- [ ] SES (Simple Email Service)
+  - [ ] [Notas Detalhadas](./ses.md)
+- [ ] AppConfig
+  - [ ] [Notas Detalhadas](./appconfig.md)
+
+---
+
+## 🧪 Observabilidade
+
+- [ ] X-Ray
+  - [ ] [Notas Detalhadas](./x-ray.md)
+
+---
+
 ## 🌐 Networking
 
 - [ ] VPC
 - [ ] CloudFront
 - [ ] Route 53
 - [ ] API Gateway
+- [ ] Global Accelerator
+  - [ ] [Notas Detalhadas](./global-accelerator.md)
 - [ ] Direct Connect
 - [ ] VPN
 

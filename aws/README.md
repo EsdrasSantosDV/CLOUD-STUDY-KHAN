@@ -167,16 +167,25 @@
 - [ ] SageMaker
   - [ ] [Notas Detalhadas](./sagemaker.md)
 - [ ] Rekognition
+  - [ ] [Ver em Visão Geral](./ml-services-overview.md#amazon-rekognition)
 - [ ] Transcribe
+  - [ ] [Ver em Visão Geral](./ml-services-overview.md#amazon-transcribe)
 - [ ] Lex
   - [ ] [Notas Detalhadas](./lex.md)
 - [ ] Translate
+  - [ ] [Ver em Visão Geral](./ml-services-overview.md#amazon-translate)
 - [ ] Comprehend
+  - [ ] [Ver em Visão Geral](./ml-services-overview.md#amazon-comprehend)
 - [ ] Textract
+  - [ ] [Ver em Visão Geral](./ml-services-overview.md#amazon-textract)
 - [ ] Forecast
+  - [ ] [Ver em Visão Geral](./ml-services-overview.md#amazon-forecast)
 - [ ] Personalize
+  - [ ] [Ver em Visão Geral](./ml-services-overview.md#amazon-personalize)
 - [ ] Kendra
+  - [ ] [Ver em Visão Geral](./ml-services-overview.md#amazon-kendra)
 - [ ] Polly
+  - [ ] [Ver em Visão Geral](./ml-services-overview.md#amazon-polly)
 
 ---
 

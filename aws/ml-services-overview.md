@@ -178,7 +178,7 @@ Appliance de hardware que conecta a câmeras IP existentes e roda computer visio
 
 Esses são os favoritos de prova: serviços de ML prontos, acessados por API, pouca ou nenhuma experiência em ML exigida.
 
-### 🔹 Amazon Rekognition
+### 🔹 Amazon Rekognition {#amazon-rekognition}
 
 **O que é:**
 
@@ -199,7 +199,7 @@ Serviço de computer vision para imagens e vídeos.
 
 ---
 
-### 🔹 Amazon Transcribe
+### 🔹 Amazon Transcribe {#amazon-transcribe}
 
 **O que é:**
 
@@ -220,7 +220,7 @@ Speech-to-text – converte fala em texto (live ou arquivos).
 
 ---
 
-### 🔹 Amazon Polly
+### 🔹 Amazon Polly {#amazon-polly}
 
 **O que é:**
 
@@ -238,7 +238,7 @@ O inverso do Transcribe: text-to-speech com vozes naturais.
 
 ---
 
-### 🔹 Amazon Translate
+### 🔹 Amazon Translate {#amazon-translate}
 
 **O que é:**
 
@@ -277,7 +277,7 @@ Serviço para criar chatbots conversacionais (voz e texto), com suporte a diálo
 
 ---
 
-### 🔹 Amazon Comprehend
+### 🔹 Amazon Comprehend {#amazon-comprehend}
 
 **O que é:**
 
@@ -299,7 +299,7 @@ Serviço de NLP (Natural Language Processing) para extrair insights de texto.
 
 ---
 
-### 🔹 Amazon Forecast
+### 🔹 Amazon Forecast {#amazon-forecast}
 
 **O que é:**
 
@@ -317,7 +317,7 @@ Serviço de time series forecasting: previsão de demanda, vendas, recursos.
 
 ---
 
-### 🔹 Amazon Textract
+### 🔹 Amazon Textract {#amazon-textract}
 
 **O que é:**
 
@@ -335,7 +335,7 @@ Serviço para extrair texto e estrutura de documentos (PDFs, imagens, formulári
 
 ---
 
-### 🔹 Amazon Kendra
+### 🔹 Amazon Kendra {#amazon-kendra}
 
 **O que é:**
 
@@ -353,7 +353,7 @@ Serviço de busca inteligente com ML, estruturado para conteúdo corporativo.
 
 ---
 
-### 🔹 Amazon Personalize
+### 🔹 Amazon Personalize {#amazon-personalize}
 
 **O que é:**
 

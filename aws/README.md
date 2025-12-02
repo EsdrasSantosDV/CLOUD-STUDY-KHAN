@@ -10,7 +10,14 @@
 - [Serviços Core](#-serviços-core)
 - [Computação](#-computação)
 - [Armazenamento](#-armazenamento)
-- [Banco de Dados](#-banco-de-dados)
+- [Banco de Dados & Analytics](#-banco-de-dados--analytics)
+- [Developer Tools & DevOps](#-developer-tools--devops)
+- [IoT & Edge](#-iot--edge)
+- [Mobile, Frontend & Experiência do Usuário](#-mobile-frontend--experiência-do-usuário)
+- [End-User Computing](#-end-user-computing)
+- [Comunicação & Integração](#-comunicação--integração)
+- [Observabilidade](#-observabilidade)
+- [Machine Learning & AI](#-machine-learning--ai)
 - [Networking](#-networking)
 - [Segurança](#-segurança)
 - [Certificações](#-certificações)
@@ -74,7 +81,7 @@
 
 ---
 
-## 🗄️ Banco de Dados
+## 🗄️ Banco de Dados & Analytics
 
 - [ ] RDS (Relational Database Service)
 - [ ] DynamoDB
@@ -82,6 +89,12 @@
 - [ ] ElastiCache
 - [ ] DocumentDB
 - [ ] Neptune
+- [ ] Athena
+  - [ ] [Notas Detalhadas](./athena.md)
+- [ ] Glue
+  - [ ] [Notas Detalhadas](./glue.md)
+- [ ] QuickSight
+  - [ ] [Notas Detalhadas](./quicksight.md)
 
 ---
 
@@ -144,6 +157,26 @@
 
 - [ ] X-Ray
   - [ ] [Notas Detalhadas](./x-ray.md)
+
+---
+
+## 🤖 Machine Learning & AI
+
+- [ ] Visão Geral dos Serviços ML
+  - [ ] [Notas Detalhadas](./ml-services-overview.md)
+- [ ] SageMaker
+  - [ ] [Notas Detalhadas](./sagemaker.md)
+- [ ] Rekognition
+- [ ] Transcribe
+- [ ] Lex
+  - [ ] [Notas Detalhadas](./lex.md)
+- [ ] Translate
+- [ ] Comprehend
+- [ ] Textract
+- [ ] Forecast
+- [ ] Personalize
+- [ ] Kendra
+- [ ] Polly
 
 ---
 

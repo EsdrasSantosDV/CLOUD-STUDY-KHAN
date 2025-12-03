@@ -27,10 +27,20 @@
 ## 🎯 Fundamentos
 
 ### Conceitos Básicos
-- [ ] Regiões e Availability Zones
+- [ ] Cloud Computing
+  - [ ] [Notas Detalhadas](./fundamentos/cloud-computing.md)
+- [ ] Por que Migrar para a Nuvem
+  - [ ] [Notas Detalhadas](./fundamentos/porque-migrar-nuvem.md)
+- [ ] Conceitos Fundamentais da AWS
+  - [ ] [Notas Detalhadas](./fundamentos/conceitos-fundamentais-aws.md)
+- [ ] Terminologia de Finanças na Nuvem
+  - [ ] [Notas Detalhadas](./fundamentos/terminologia-financas-nuvem.md)
+- [ ] AWS Well-Architected Framework
+  - [ ] [Notas Detalhadas](./fundamentos/well-architected-framework.md)
+- [ ] AWS Global Infrastructure
+  - [ ] [Notas Detalhadas](./fundamentos/global-infrastructure.md)
 - [ ] Conta AWS e IAM
 - [ ] Billing e Cost Management
-- [ ] AWS Well-Architected Framework
 
 ---
 

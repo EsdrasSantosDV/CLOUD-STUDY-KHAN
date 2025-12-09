@@ -37,6 +37,22 @@
   - [ ] [Notas Detalhadas](./fundamentos/terminologia-financas-nuvem.md)
 - [ ] AWS Well-Architected Framework
   - [ ] [Notas Detalhadas](./fundamentos/well-architected-framework.md)
+- [ ] AWS Cloud Adoption Framework (CAF)
+  - [ ] [Notas Detalhadas](./fundamentos/cloud-adoption-framework.md)
+- [ ] Os 7 Rs da Migração
+  - [ ] [Notas Detalhadas](./fundamentos/7rs-migracao.md)
+- [ ] Migração para AWS em 3 Etapas
+  - [ ] [Notas Detalhadas](./fundamentos/3-etapas-migracao.md)
+- [ ] Migration Evaluator e Migration Hub
+  - [ ] [Notas Detalhadas](./fundamentos/migration-evaluator-hub.md)
+- [ ] Estágio Mobilize da Migração
+  - [ ] [Notas Detalhadas](./fundamentos/mobilize-stage.md)
+- [ ] Fase Migrate & Modernize
+  - [ ] [Notas Detalhadas](./fundamentos/migrate-modernize-stage.md)
+- [ ] AWS DataSync e Transfer Family
+  - [ ] [Notas Detalhadas](./fundamentos/datasync-transfer-family.md)
+- [ ] AWS Snow Family e Storage Gateway
+  - [ ] [Notas Detalhadas](./fundamentos/snow-storage-gateway.md)
 - [ ] AWS Global Infrastructure
   - [ ] [Notas Detalhadas](./fundamentos/global-infrastructure.md)
 - [ ] Conta AWS e IAM

@@ -100,10 +100,20 @@
 ## 💾 Armazenamento
 
 - [ ] S3
+  - [ ] [Notas Detalhadas](./s3.md)
 - [ ] EBS (Elastic Block Store)
+  - [ ] [Ver em EC2](./ec2.md#-amazon-ebs-elastic-block-store)
 - [ ] EFS (Elastic File System)
+  - [ ] [Ver em EC2](./ec2.md#-amazon-efs-elastic-file-system)
+- [ ] FSx
+  - [ ] [Notas Detalhadas](./fsx.md)
 - [ ] Glacier
 - [ ] Storage Gateway
+  - [ ] [Ver em Fundamentos](./fundamentos/snow-storage-gateway.md#-aws-storage-gateway--visão-geral-e-cenários-práticos)
+- [ ] Backup
+  - [ ] [Notas Detalhadas](./backup.md)
+- [ ] Elastic Disaster Recovery (DRS)
+  - [ ] [Notas Detalhadas](./elastic-disaster-recovery.md)
 
 ---
 

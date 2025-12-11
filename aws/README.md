@@ -10,6 +10,7 @@
 - [Serviços Core](#-serviços-core)
 - [Computação](#-computação)
 - [Armazenamento](#-armazenamento)
+- [Backup & Disaster Recovery](#-backup--disaster-recovery)
 - [Banco de Dados & Analytics](#-banco-de-dados--analytics)
 - [Developer Tools & DevOps](#-developer-tools--devops)
 - [IoT & Edge](#-iot--edge)
@@ -99,7 +100,7 @@
 
 ## 💾 Armazenamento
 
-- [ ] S3
+- [ ] S3 (Simple Storage Service)
   - [ ] [Notas Detalhadas](./s3.md)
 - [ ] EBS (Elastic Block Store)
   - [ ] [Ver em EC2](./ec2.md#-amazon-ebs-elastic-block-store)
@@ -110,7 +111,12 @@
 - [ ] Glacier
 - [ ] Storage Gateway
   - [ ] [Ver em Fundamentos](./fundamentos/snow-storage-gateway.md#-aws-storage-gateway--visão-geral-e-cenários-práticos)
-- [ ] Backup
+
+---
+
+## 🔄 Backup & Disaster Recovery
+
+- [ ] AWS Backup
   - [ ] [Notas Detalhadas](./backup.md)
 - [ ] Elastic Disaster Recovery (DRS)
   - [ ] [Notas Detalhadas](./elastic-disaster-recovery.md)

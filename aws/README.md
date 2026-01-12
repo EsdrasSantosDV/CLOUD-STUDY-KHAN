@@ -89,6 +89,9 @@
 ## 💻 Computação
 
 - [ ] EC2
+  - [ ] [Notas Detalhadas](./ec2.md)
+- [ ] Auto Scaling
+  - [ ] [Notas Detalhadas](./autoscaling.md)
 - [ ] Lambda
 - [ ] ECS (Elastic Container Service)
 - [ ] EKS (Elastic Kubernetes Service)
@@ -237,6 +240,12 @@
 - [ ] CloudFront
 - [ ] Route 53
 - [ ] API Gateway
+- [ ] Elastic Load Balancer (ELB)
+  - [ ] [Visão Geral](./elb.md)
+  - [ ] [Application Load Balancer (ALB)](./alb.md)
+  - [ ] [Network Load Balancer (NLB)](./nlb.md)
+  - [ ] [Classic Load Balancer (CLB)](./clb.md)
+  - [ ] [Certificados SSL/TLS no ALB](./alb-certificados.md)
 - [ ] Global Accelerator
   - [ ] [Notas Detalhadas](./global-accelerator.md)
 - [ ] Direct Connect

@@ -339,3 +339,4 @@ O **Classic Load Balancer** é um componente historicamente importante, mas tecn
 
 **Última atualização:** 📅 09/01/2026
 
+

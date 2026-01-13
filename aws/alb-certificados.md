@@ -227,3 +227,4 @@ O uso de **certificados SSL/TLS no Application Load Balancer** é o mecanismo ce
 
 **Última atualização:** 📅 09/01/2026
 
+
